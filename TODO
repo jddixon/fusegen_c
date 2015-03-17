@@ -1,8 +1,8 @@
 ~/dev/c/fusegen_c/TODO
 
 2015-03-11
-    * make github project                                               * TODO
-    * git add everything                                                * TODO
-    * fix configure.ac 
-    * and then git commit
-    * README.orphaning
+    * make github project                                               * DONE
+    * git add everything                                                * DONE
+    * fix configure.ac                                                  * DONE 
+    * and then git commit and push                                      * DONE
+    * README.orphaning from 'NOW CREATE THE ORPHAN'
