@@ -8,3 +8,7 @@ an Autotools-based ANSI C package compatible with the open source FUSE
 filesystem in userspace 
 [package](http://fuse.sourceforge.net).  fuseGen-generated packages are
 meant to be templates, easily customized for different purposes.
+
+## On-line Documentation
+
+More information on the **fusegen_c** project can be found [here](https://jddixon.github.io/fusegen_c)
