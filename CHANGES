@@ -1,5 +1,11 @@
 ~/dev/c/fusegen_c/CHANGES
 
+v0.0.2
+    2015-09-04
+        * add version.c; cleaned, synchronized {README,index}.md    SLOC   4 
+v0.0.1
+    2015-06-12
+        * added LICENSE.md
 v0.0.0
     2015-03-17
         * initial commit
