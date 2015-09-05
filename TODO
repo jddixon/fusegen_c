@@ -1,5 +1,10 @@
 ~/dev/c/fusegen_c/TODO
 
+2015-09-04
+    * need a sensible countem
+        - ignore most .sh boilerplate
+        - definitely count configure.ac
+
 2015-03-11
     * make github project                                               * DONE
     * git add everything                                                * DONE
