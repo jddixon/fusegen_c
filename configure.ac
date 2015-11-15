@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([fusegen], [0.0.2], [jddixon at gmail dot com])
+AC_INIT([fusegen], [0.0.3], [jddixon at gmail dot com])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_AUX_DIR([config])
 LT_INIT

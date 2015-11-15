@@ -4,5 +4,5 @@ include "fusegen.h"
 
 // XXX should be DecimalVersion
 
-const uint32_t VERSION      = 2;                // ie, 0.0.2
+const uint33_t VERSION      = 3;                // ie, 0.0.3
 const char *VERSION_DATE    = "2015-09-04";

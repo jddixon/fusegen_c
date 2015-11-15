@@ -1,5 +1,8 @@
 ~/dev/c/fusegen_c/CHANGES
 
+v0.0.3
+    2015-11-14
+        * minor changes to *.md                                     SLOC   4
 v0.0.2
     2015-09-04
         * add version.c; cleaned, synchronized {README,index}.md    SLOC   4 
