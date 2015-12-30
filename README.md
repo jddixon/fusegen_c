@@ -18,4 +18,4 @@ contains no useful code at this point.
 ## On-line Documentation
 
 More information on the **fusegen_c** project can be found
-[here](://jddixon.github.io/fusegen_c)
+[here](https://jddixon.github.io/fusegen_c)

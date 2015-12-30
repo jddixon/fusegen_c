@@ -1,8 +1,6 @@
-/* version.c */
+/* fusegen_c/src/version.c */
 
-include "fusegen.h"
+#include "None.h"
 
-// XXX should be DecimalVersion
-
-const uint33_t VERSION      = 3;                // ie, 0.0.3
-const char *VERSION_DATE    = "2015-09-04";
+const char *VERSION      = "0.0.4";
+const char *VERSION_DATE = "2015-12-30";
