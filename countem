@@ -1,0 +1,4 @@
+pySloc -v -X "^autogen.sh$|^config$|\.m4$|^m4$"      $@      \
+    bash:countem        \
+    txt:configure.ac
+

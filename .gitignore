@@ -17,3 +17,4 @@ autom4te.cache
 .libs
 .lo
 *.o
+*.bak
