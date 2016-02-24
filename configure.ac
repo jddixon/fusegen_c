@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ([2.69])
-AC_INIT([fusegen_c], [0.0.4], [jddixon at gmail dot com])
+AC_INIT([fusegen_c], [0.0.5], [jddixon at gmail dot com])
 AC_CONFIG_MACRO_DIR([m4])
 AC_CONFIG_AUX_DIR([config])
 LT_INIT
@@ -40,4 +40,5 @@ AC_CHECK_FUNCS([posix_fallocate])
 
 AC_CONFIG_FILES([Makefile src/Makefile])
 AC_OUTPUT
+
 

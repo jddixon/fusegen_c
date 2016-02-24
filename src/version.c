@@ -2,5 +2,5 @@
 
 #include "None.h"
 
-const char *VERSION      = "0.0.4";
-const char *VERSION_DATE = "2015-12-30";
+const char *VERSION      = "0.0.5";
+const char *VERSION_DATE = "2016-02-24";
