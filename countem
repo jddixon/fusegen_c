@@ -1,4 +1,10 @@
-pySloc -v -X "^autogen.sh$|^config$|\.m4$|^m4$"      $@      \
-    bash:countem        \
-    txt:configure.ac
+cd ~/dev/c/fusegen_c
+
+pySloc -L c -v -X "^build$|^.gitignore$|^waf$|^.waf"      $@      \
+    bash:countem                    \
+    txt:.gitignore.local            \
+    py:wscript                      \
+
+
+
 
