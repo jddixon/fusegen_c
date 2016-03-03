@@ -1,5 +1,10 @@
 ~/dev/c/fusegen_c/TODO
 
+2016-03-02
+    * wget https://waf.io/waf-1.8.17									* DONE
+    * mv waf-1.8.17 waf									            	* DONE
+    * update countem to exclude waf										* DONE
+
 2015-09-04
     * need a sensible countem
         - ignore most .sh boilerplate

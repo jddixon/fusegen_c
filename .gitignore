@@ -18,3 +18,4 @@ autom4te.cache
 .lo
 *.o
 *.bak
+build
