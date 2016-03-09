@@ -1,5 +1,9 @@
 ~/dev/c/fusegen_c/TODO
 
+2016-03-06
+    * move build logic into src/wscript
+    * add -V option so that fusegen_c outputs version info
+
 2016-03-02
     * wget https://waf.io/waf-1.8.17									* DONE
     * mv waf-1.8.17 waf									            	* DONE
