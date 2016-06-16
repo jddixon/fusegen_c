@@ -4,8 +4,14 @@ if [ ! -z "${DEV_BASE// }" ]
 then
   cd $DEV_BASE/c/fusegen_c
   
+  blListGen \
+    -d ../fusegen_c \
+    -1L  \
+    -u $DVCZ_UDIR \
+    -X build \
+    -X .ssh \
+    $@
   
-  pySloc -L c  -X build -X waf -X waflib -X vfmd-wscript -v $@
 else
   echo "DEV_BASE is not defined"
 fi

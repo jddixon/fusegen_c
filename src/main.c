@@ -3,8 +3,6 @@
 #include <getopt.h>         // for getopt_long
 #include "fusegen_c.h"
 
-// xlreg_client.c
-
 int main (int argc, char **argv) {
     
     int c;
@@ -29,14 +27,13 @@ int main (int argc, char **argv) {
         switch(c) {
         case 'h':
             // DEBUG
-            printf("-h seen; say something helpful and exit\n");
+            printf("-h seen\n");
             // END
-            
             // usage()
             exit(EXIT_SUCCESS);
         case 'j':
             // DEBUG
-            printf("-j/--justShow seen\n");
+            printf("-j seen\n");
             // END
             justShow = 1;
             break;
@@ -55,8 +52,6 @@ int main (int argc, char **argv) {
             
             // usage();
             exit(EXIT_FAILURE);
-        default:
-            printf("unknown option '%c'\n", c);
         }
 
     }

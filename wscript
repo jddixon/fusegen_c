@@ -1,6 +1,7 @@
 # fusegen_c/wscript
 
 BASENAME = 'fusegen'
+EXENAME  = BASENAME + 'CClient'
 LIBNAME  = BASENAME + '_c_lib'
 
 # waf combines these two to get the archive name
@@ -33,5 +34,5 @@ def build(ctx):
         ctx.stlib(source='src/version.c', target=LIBNAME,
             includes=['include'], cxxflags='-g -Wall -O0')
 
-    ctx.program(source='src/main.c', target=APPNAME, includes='include',
+    ctx.program(source='src/main.c', target=EXENAME, includes='include',
         use=LIBNAME)

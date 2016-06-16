@@ -1,0 +1,51 @@
+-----BEGIN RSA PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoM2sBgX0ChP2JriXkOxS
+e2FjHYVzBGkNvgf0vIAa7FFYZi2pWmxBAVXgl3tTiB3quqqud/MbKqdejM6gkKBK
+v8f7hlcBQLD6BLIZ/RRfhIElc+WlDVfKSnBTB4va5qTQAgvuq5i8+oMj7G8WEy5d
+7cYucWyUJMtHvT4pCDtBWeeqQ62tByWjv34Ud/+A9Mjf0leiWxM3tiToVsqIKb4s
+zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
+H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
+GQIDAQAB
+-----END RSA PUBLIC KEY-----
+fusegen_c
+2016-06-16 00:03:22
+# START CONTENT #
+fusegen_c
+ .copyright 32a362b2260b92f71ab35e13dbb20d6bd4e3da44
+ .dvcz
+  projCfg b38a7b07549f76593fd12ef008f8867aa5f2963f
+  projCfg.local 007e5583201a1fcb18a01ae6c4fa64b86dfd06e1
+ .gitignore 88dbb7d2210c114bd236b552000d688d174fc416
+ .gitignore.local 70b974efbba15adb400ad0a006b5a0355721b3eb
+ CHANGES b6befa74a88a76a330fa99a91645b8e21f3ad15d
+ LICENSE.md 74f51f2453bf0255c672fda573e816bd149ad7d5
+ README.md b1a7a316f1426ca1ef897b397fb4a391d39d902b
+ TODO ee5de8574ba614fe6bf6d3222487e029c076a3ec
+ bin
+ bkp2U b389613442bf4fa9127452803d71897bb88d4fbc
+ countem 3fcf566bfeefa47fbc5ca667fbec1a2297841ee0
+ doFullWafBuild edb59e0bdc789c99d52c8fc3d5dcd28b8fadbfe9
+ doWafBuild 42884a47d8bd905da2ea1f838c7e3f7353994bbd
+ doc
+ examples
+ ghpDoc
+  index.md a1367831ac4b9f71ac77ea5e7d5ed6813a99a91b
+ include
+  fusegen_c.h 34daa59d911c1e75ab59dd822660bbb70e6b0cdd
+ installit 897ba2bc70c281f6971da2b12840240b2a9ae263
+ scripts
+ src
+  config.h.in aa5e5954a3daf8ba99529edccda22564a5d3bc92
+  main.c 65318dbd5f40ba22b80f3a0e9aebc674e468b416
+  version.c 03653dc423f894ce21656146aadc477b286c6de7
+  wscript 425291927b775542e7335297dcc451e5f024a176
+ styleit eb5e579988e7f3f6ed766feb36186fcc54641b57
+ test.all b4729448d495d51db8096e09307e5833a042b6a0
+ tests
+ vfmd-wscript fdacda2fc22baf2bc67e564a59506285179a7924
+ waf 790ddd7d6d1eff24dc465f41ec36f2e2f6e17a00
+ wscript 99eadae925e7227a9426da5fb0c435655d07c8ed
+ wscript.alpha 203c154515c8d0c0c0239359d37dd1609331ed18
+# END CONTENT #
+
+c0+bF7f9Xx8vOjQq3ddV0mjvxrsMxJNZRxeg+kfX6pw6IegO+e0v8Z8bLrHzcFrjB5mlJD9uK6V8zNOHpcKNwIoMeUs50E89t5qbUVurr+65UU/fQEfPxDDpeoUZ33Zz06GaQrWDxv9ZG9qg3UEvnEQHqcyjwZvoQ3XTfqHP86I2Tymgu2I3hPJfCQwU+T719zDamoutweOVqQJ0yJCMiw+68CBYLrHRprSUbiIx/F41DZnhSPT4lAHySR4xY/gL4x4GOij6t+6C5MHpIh0qeYb/sKrdDLOtmU2DhjncxoyQR3KlXzLmw0R99uBh7/AAINdDMdKR8t3fXRpUGAivtw==
