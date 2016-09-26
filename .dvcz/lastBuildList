@@ -7,26 +7,27 @@ zPjEShF9rvcNa9XEy1dKpcDz9Szbm2SlxOgM83fDDGtOq4SSCSqndtxrOvXXPB57
 H1mJV/FmerbXRPm5ERJVNIxtLk7Gr2Ce45FVlWyJGMhpfVlKkkk+bRQ02OFfazJI
 GQIDAQAB
 -----END RSA PUBLIC KEY-----
-fusegen_c v0.2.1
-2016-06-22 18:24:55
-# START CONTENT #
+fusegen_c v0.2.2
+2016-09-26 00:23:19
+# BEGIN CONTENT #
 fusegen_c
- .copyright 32a362b2260b92f71ab35e13dbb20d6bd4e3da44
  .dvcz
-  builds c3741625ebbd71514a92b75c3d41e99a1f0386f9
-  lastBuildList 5a4610bd180380477ebc116c491fffd23229afb7
-  projCfg 43290aa2f0e734ce93d0844ff148681100943939
-  projCfg.local 007e5583201a1fcb18a01ae6c4fa64b86dfd06e1
-  version bf6f6417fa49b8ed8e4c89714c6aa9b166ee75a6
+  builds f8f1a9ea6f49aeb0c7d89419a69a059f9e795847
+  copyright 304c14d702dff7c6c2c39729ff62aed7203b3427
+  lastBuildList 876c9b706a9a4fec199a085ff0a9368ad63ebc94
+  license 5977a55c75bb4612004451a56b0b4c22d9d3311d
+  projCfg 771871df479057759fbff924a24e32ca49f933ee
+  projCfg.local bf1f56e1a9c3c1b9fa2d9fc8f35cace73b02a74d
+  version 15615b2bc02f29ec2e20398f8ca7692ee4c8bda3
  .gitignore 88dbb7d2210c114bd236b552000d688d174fc416
  .gitignore.local 70b974efbba15adb400ad0a006b5a0355721b3eb
- CHANGES 4ba78a35310a8d7e032eb0544f8a7ad35d43fd95
- LICENSE.md 74f51f2453bf0255c672fda573e816bd149ad7d5
+ CHANGES ab7e2a3210d022e35110fa243ba1d8809bc004dc
+ LICENSE-MIT.md ef87ef0aafe2bb3dc3b3ab29651c52e8add097b4
  README.md b1a7a316f1426ca1ef897b397fb4a391d39d902b
  TODO ee5de8574ba614fe6bf6d3222487e029c076a3ec
  bin
  bkp2U b389613442bf4fa9127452803d71897bb88d4fbc
- countem 3fcf566bfeefa47fbc5ca667fbec1a2297841ee0
+ countem 2231133197fa14275bde14a971f3b3fca3e7924e
  doFullWafBuild edb59e0bdc789c99d52c8fc3d5dcd28b8fadbfe9
  doWafBuild 42884a47d8bd905da2ea1f838c7e3f7353994bbd
  doc
@@ -52,15 +53,15 @@ fusegen_c
  scripts
  src
   main.c 65318dbd5f40ba22b80f3a0e9aebc674e468b416
-  version.c c0fa1715877cfb04a893e12d7cd5736a00ae7f94
+  version.c 7e26264e0232102556ea1e1194c5da1dcd752d1d
   wscript 425291927b775542e7335297dcc451e5f024a176
  styleit eb5e579988e7f3f6ed766feb36186fcc54641b57
  test.all f0695272f54bd0aad7eba3c52294321e22d70b47
  tests
  vfmd-wscript fdacda2fc22baf2bc67e564a59506285179a7924
  waf 790ddd7d6d1eff24dc465f41ec36f2e2f6e17a00
- wscript 0c5e8e95a33dcb4551c4df8cc271377a32a816e5
+ wscript ffae9bcb030f4065aaaaaed88535bab7a3a15b48
  wscript.alpha 203c154515c8d0c0c0239359d37dd1609331ed18
 # END CONTENT #
 
-WvfLQdZ6b6lf2LJkfDp3n+NB5lkd3kII6pMPLjnccjmLp+IOAWYdAcM1kbY9ZQ9WUN1dvBcYlLxg/QBFa0fa1L6nfwKYWvI4aoiZPh5FE03vLTBJlRwyVmn6JijrQvoB8KbyzPVYMOq5eIQG5RQiQ4Ffktqd+I7FgIufM0NvknyYAm8mnzKjLe1oMtMAt/PGGiKk9zw+a2XEXVZcvuSewpOqbXKdLNAjpjdwCPH3fByyFKkHRu0c5pNmUp/PiBbTmybkNTkuJ12qPB9TKLOFCUJVqM2dwdPzRVfKyZWwI7i94PmQYI8ArX3Km+7Hckohr2ZWJ2jBWAF/TOybQ5UoCw==
+UQjVoV9+XrHF8ia4x/DcvQDsbyTuZ2OWYotXeab7w3qm7WrDdFYjKrEKWtmXHYuH4Hc4PnH526/v34S1+h7Xy/IcaSsjrxKgPGrWzdrxedvkuTlssGz6WbHkMfq6jhPtC+rrNygt/WQ5ejedRc3LM4DxJROCegGLVvUjZWVAiETcTwyKtNI/cAI950wvKQLHS5cuOgPQliJALKw0HcQBz5qTTeKCLlsayfYgMU869J8Zepvpj8D+jkVLNz2niygH9JFDaRUWSHlqJLFkY2oqSaakMUo44bDDAniTGQ0nd/eqoh5bHYr1rT50oY2XDs/g+/uD9YeDLIXgZ+vd3lESbg==

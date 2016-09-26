@@ -6,7 +6,7 @@ LIBNAME  = BASENAME + '_c_lib'
 
 # waf combines these two to get the archive name
 APPNAME = BASENAME + '_c'
-VERSION = '0.2.1'
+VERSION = '0.2.2'
 
 top     = '.'
 out     = "build"
